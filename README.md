@@ -1,2 +1,2 @@
 # cruzer.github.io
-Blog and portfolio
+# This is the repo for my Blog and portfolio
